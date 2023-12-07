@@ -7,10 +7,10 @@ import tweepy as tw
 
 
 # creating variables for credentials
-consumer_key = '37gwjesvZbRmoJQVBxP9nvrwq'
-consumer_secret = '8dKpWgrW2wU47oYWl6ZBhvzqIWorbBGaUczSwBiua9hqXofQzP'
-access_token = '186349231-5XXE6gokfKCz5k6lYMKummQTBQ8BtBfKyb8hSkQN'
-access_token_secret = 'uL3XVUqhdwFyXW4QYby3btIVFwVlMfXYAugcgmIG69RQJ'
+consumer_key = 'sdfsdfsd'
+consumer_secret = 'sdfsdfsdfs'
+access_token = 'sdfsdfsdfsdfsdhSkQN'
+access_token_secret = 'sdfsdfsdfsd'
 # Creating an OAuthHandler instance
 auth = tw.OAuthHandler(consumer_key, consumer_secret)
 # Setting the app access token
